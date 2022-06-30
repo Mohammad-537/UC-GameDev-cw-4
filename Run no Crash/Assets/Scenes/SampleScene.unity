@@ -718,6 +718,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c33830afc14724c01a4fc705199058a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 1583061881}
+  jumbForce: 10
 --- !u!54 &1583061881
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -732,5 +734,5 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 120
   m_CollisionDetection: 0
