@@ -719,7 +719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1583061881}
-  jumbForce: 10
+  jumbForce: 7
 --- !u!54 &1583061881
 Rigidbody:
   m_ObjectHideFlags: 0
